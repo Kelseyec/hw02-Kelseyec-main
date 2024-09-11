@@ -1,0 +1,88 @@
+Seed: 946684800
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+Enter the file to load: 
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+The following 3 heroes are loaded...
+---------------------------------------
+Mighty Mouse has the following powers...
+---------------------------------------
+Inspector Gadget has the following powers...
+---------------------------------------
+Braniac has the following powers...
+---------------------------------------
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+0: Mighty Mouse
+1: Inspector Gadget
+2: Braniac
+Select your first hero: Select your second hero: ---------------------------------------
+Mighty Mouse has 5 health 
+Inspector Gadget has 4 health 
+---------------------------------------
+Mighty Mouse has 4 health 
+Inspector Gadget has 4 health 
+---------------------------------------
+Mighty Mouse has 4 health 
+Inspector Gadget has 3 health 
+---------------------------------------
+Mighty Mouse has 3 health 
+Inspector Gadget has 3 health 
+---------------------------------------
+Mighty Mouse has 2 health 
+Inspector Gadget has 3 health 
+---------------------------------------
+Mighty Mouse has 1 health 
+Inspector Gadget has 3 health 
+---------------------------------------
+Inspector Gadget WINS!!!
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+0: Mighty Mouse
+1: Inspector Gadget
+2: Braniac
+Select your first hero: Select your second hero: ---------------------------------------
+Inspector Gadget has 4 health 
+Braniac has 3 health 
+---------------------------------------
+Inspector Gadget has 4 health 
+Braniac has 2 health 
+---------------------------------------
+Inspector Gadget has 3 health 
+Braniac has 2 health 
+---------------------------------------
+Inspector Gadget has 3 health 
+Braniac has 1 health 
+---------------------------------------
+Inspector Gadget has 2 health 
+Braniac has 1 health 
+---------------------------------------
+Inspector Gadget WINS!!!
+
+Choose an option:
+1. Load Heroes
+2. Print Hero Roster
+3. Hero Fight!
+4. Quit
+> 
+Goodbye
